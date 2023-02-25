@@ -30,7 +30,7 @@ body {
   width: 100%;
   white-space: nowrap;
   overflow: hidden;
-  animation: typing 2s steps(28), cursor 0.3s step-end infinite alternate;
+  animation: typing 2s steps(16), cursor 0.3s step-end infinite alternate;
   transition: 0.3s;
 }
 
@@ -90,7 +90,7 @@ body {
   width: 100%;
   white-space: nowrap;
   overflow: hidden;
-  animation: typing2 2s steps(8), cursor2 0.4s step-end infinite alternate;
+  animation: typing2 2.5s steps(1), cursor2 0.4s step-end infinite alternate;
 }
 
 @keyframes cursor2 {
